@@ -49,5 +49,4 @@ Este curso introduce los principios fundamentales de la microarquitectura de com
 - Introducción a la arquitectura superscalar.
 
 ## Evaluación
-- Quizzes semanales (40%).
-- Proyecto práctico final: Implementar y simular un sistema sencillo (60%).
+
