@@ -1,4 +1,5 @@
 # Fundamentos de Microarquitectura de Computadores
+## ------ UNDER CONSTRUCTION -----
 
 ## Descripción General
 Este curso introduce los principios fundamentales de la microarquitectura de computadores, con énfasis en el diseño digital y su simulación. Proporciona una base sólida para cursos más avanzados en diseño digital y VLSI.
