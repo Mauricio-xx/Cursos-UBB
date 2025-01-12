@@ -9,7 +9,7 @@ El repositorio está organizado en directorios, cada uno correspondiente a una a
 
 - **Fundamentos de Microarquitectura de Computadores**
 - **Diseño Digital en VLSI**
-- **Diseño Analógico para Circuitos Integrados**
+- **Circuitos Integrados Analógico**
 
 Cada directorio contiene:
 - Un archivo `README.md` con la descripción y planificación detallada de la asignatura.
