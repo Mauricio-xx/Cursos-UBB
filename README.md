@@ -1,6 +1,7 @@
-# Planificación de Asignaturas: Máster en Ingeniería Eléctrica
 
-Este repositorio contiene la planificación de tres asignaturas diseñadas para un programa de máster en Ingeniería Eléctrica, con un enfoque en microelectrónica digital y analógica. Los cursos están estructurados para ofrecer a los estudiantes una comprensión sólida de los conceptos y herramientas clave necesarios para abordar proyectos de diseño de circuitos digitales y analógicos.
+# Planificación de Asignaturas: Magíster en Automatización y Conversión de la Energía
+
+Este repositorio contiene la planificación de tres asignaturas diseñadas para un programa de Magíster en Automatización y Conversión de la Energía, con un enfoque en microelectrónica digital y analógica. Los cursos están estructurados para ofrecer a los estudiantes una comprensión sólida de los conceptos y herramientas clave necesarios para abordar proyectos de diseño de circuitos digitales y analógicos.
 
 ## Estructura del Repositorio
 
